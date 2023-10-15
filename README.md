@@ -8,7 +8,7 @@
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 >**Note***
->_The following uses screenshots that are not owned by me.
+>_The following uses screenshots that I do not own.
 
 
 <h2>Environments and Technologies Used</h2>

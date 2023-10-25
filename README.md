@@ -422,4 +422,4 @@ while ($count -lt $NUMBER_OF_ACCOUNTS_TO_CREATE) {
   ![image](https://github.com/CarlosAlvarado0718/Configure-AD/assets/140138198/1b919d51-d9de-4f72-97d9-c77031f1b2b5)
 
 ---
-<h1>CONGRATS!!! YOU'RE DONE!!!</h1>
+<h1>SETUP AND CONFIG IS COMPLETE</h1>
